@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>common/CustomDialog.qml</file>
+        <file>common/ExtrasTextField.qml</file>
+        <file>common/ModifyKiDialog.qml</file>
+        <file>common/MyButton.qml</file>
+        <file>common/MyGroupBox.qml</file>
+        <file>common/ProgressButton.qml</file>
+        <file>common/ProgressCircle.qml</file>
+        <file>common/TabButton.qml</file>
+    </qresource>
+</RCC>
